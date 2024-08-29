@@ -1,6 +1,7 @@
 Hi there!
-- ✨ I’m currently completing the WebDevelopment Bootcamp from AwesomeInc!
-- 🌱 I’m currently learning Front-End and Back-End Development. 
+- ✨ I’m currently working on a social media app for a client!
+- 🌱 I’m currently learning more TypeScript and PostgreSQL. 
 - 👯 I’m looking to collaborate on future projects.
 - 💬 Ask me about my favorite place to travel!
+- 📫 Find my contact information at: https://caitlinschaeffer.com/Contact
 - 😄 Pronouns: She/Her
